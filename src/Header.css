@@ -1,0 +1,151 @@
+body {
+  margin: 0px;
+}
+
+.header {
+  height: 180px;
+  width: 100%;
+  margin: 0px;
+  /* background-color: #D3D3D3; */
+  border-top: 3px solid #BBBBBB;
+  position: relative;
+  font-size: 15px;
+  font-weight: bold;
+  color: #003769;
+  text-align: center;
+  line-height: 75px;
+}
+
+.badge {
+  font-size: 0.5em;
+}
+
+.outerContainer {
+  margin: 3%;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+    border-color: rgba(0,0,0,.125);
+}
+
+.header img {
+  float: left;
+  width: 30%;
+  padding-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 35px;
+  padding-right: 10px;
+}
+.titleText {
+  padding: .5rem 1rem;
+}
+
+.fw-bold {
+  font-size: 0.8em;
+}
+
+.no-line {
+  display: inline;
+}
+
+.giveMargin {
+  margin-right: 5px;
+}
+
+.information {
+  height: 40px;
+  font-size: 0.6em;
+  padding: 10px;
+}
+.locationText {
+  float: right;
+}
+.headerText {
+  font-size: 30px;
+}
+
+.rightTony img {
+  float: right;
+  width: 120px;
+  display: inline-block;
+}
+
+.eventInfo {
+  margin-top: 200px;
+  margin-left: 12px;
+}
+
+.eventHeading {
+  font-weight: bolder;
+  text-align: left;
+}
+
+.eventTime {
+  font-size: 20px;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.actressSection {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.actressSection img {
+  height: 368px;
+  width: 490px;
+  padding: 10px;
+}
+.actressSection hr {
+  color: black;
+}
+
+.actressHeading {
+  font-size: 24px;
+  color: black;
+  font-weight: bold;
+  text-align: left;
+}
+
+.actressPic {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.actressPic img {
+  border: 3px solid transparent;
+  object-fit: cover;
+}
+
+.actressPicWinner {
+  display: inline-block;
+  border: 3px solid blue;
+  object-fit: cover;
+}
+.actressPicWinner p, .actressPic p {
+  text-align: center;
+  font-size: 18px;
+  margin: 0;
+}
+.actressPicWinner p {
+  margin-bottom: 8px;
+}
+
+.actressPicWinner .winnerText {
+  color: blue;
+  font-weight: bold;
+  margin: 0;
+}
+
+.otherSection {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.otherSection ul {
+  font-size: 18px;
+  list-style-type: square;
+}
