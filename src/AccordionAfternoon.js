@@ -19,8 +19,8 @@ function AccordionAfternoon(props) {
             <ScheduleElement title="Student Testimony 2" location="SMSP Courtyard" leaders="Mary Wendelowski" time="2:40pm" />
             <ScheduleElement title="Ignatian Examen" location="SMSP Courtyard" leaders="Bailey" time="2:50pm" />
             <ScheduleElement title="Reflection" location="SMSP Courtyard" leaders="Yourself!" time="3:05pm" />
-            <ScheduleElement title="Small Group Discussion" location="See Small Groups Tab" leaders="Small Group Leaders" time="3:35pm" />
-            <ScheduleElement title="Free Time" location="Various" leaders="Yourself!" time="4:00pm" />
+            <ScheduleElement title="Small Group Discussion" location="See Small Groups Tab" leaders="Small Group Leaders" time="3:15pm" />
+            <ScheduleElement title="Free Time" location="Various" leaders="Yourself!" time="3:45pm" />
           </ul>
         </div>
       </div>
